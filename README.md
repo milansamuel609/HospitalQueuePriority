@@ -18,7 +18,7 @@ v) Updated Patients: Displays the patient list after one has been treated.
 
 vi) Remaining Patients: Displays the count of remaining patients and whether the queue is empty.
 
-Sample Output:
+## Sample Output:
 
 ```
 [Alan, Christopher, Lucas, Milan]
